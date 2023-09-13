@@ -5,3 +5,6 @@ package-lock.json
 # Configuration Files
 .env
 config.json
+
+# Development
+src/utils/logs
