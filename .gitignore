@@ -8,3 +8,4 @@ config.json
 
 # Development
 src/utils/logs
+src/utils/assets
